@@ -1,0 +1,92 @@
+body
+{
+	background-image: url("cserép.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: Comic Sans MS;
+}
+table
+{
+	border-radius: 15px;
+	margin: auto;
+}
+td
+{
+	margin: auto;
+}
+h3
+{
+	font-size: 130%;
+}
+hr
+{
+	width: 56%
+}
+.l
+{
+	column-width: 100%;
+}
+.t
+{
+	background: rgba(255,255,255,0.8); 
+	width: 85%;
+}
+.tdt
+{
+	margin: auto;
+}
+.no_t
+{
+	opacity: 1;
+}
+.logo
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+.szöveg
+{
+	width: 95%;
+}
+.bevezeto
+{
+	background: rgba(0,0,148,0.3);
+	border-radius: 10px 5px 5px 30px;
+	padding-right: 5px;
+	font-size: 130%;
+}
+.kapcsolat
+{
+	background: rgba(208,148,217,0.4);
+	padding-left: 10px;
+	border-radius: 5px 10px 30px 5px;
+}
+.k
+{
+	line-height: 80%;
+}
+.kk
+{
+	margin-bottom: 0px;
+	margin-top: 0px;
+	height: 10px;
+}
+a:link
+{
+  
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited
+{
+  
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover
+{
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
